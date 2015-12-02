@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 This is local file.
+=======
+This file was created in github.
+>>>>>>> cb067f836752baa431cc31dc6697f0c32af110fd
