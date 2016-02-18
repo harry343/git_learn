@@ -1,0 +1,1 @@
+added this text in "master". what will be happen if switch to master branch? because they both have differences, one is empty and one has some data inside.
